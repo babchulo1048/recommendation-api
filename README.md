@@ -9,5 +9,4 @@ This is a simple e-commerce recommendation system that suggests products to a ta
 - 🔄 Recommends products a store has not purchased yet.
 - 👥 **User-based** filtering: Finds similar stores and suggests what they bought.
 - 📦 **Item-based** filtering: Finds items often bought together.
-- 🔁 REST API with **Flask** (Python)
-- 🌐 Frontend client using **Express.js** (Node.js)
+
